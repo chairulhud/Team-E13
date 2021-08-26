@@ -52,7 +52,7 @@ header{
 }
 
 .top-wrapper{
-    background-image: url("/source/3945114.jpg");
+    background-image: url("source/3945114.jpg");
     background-size: cover;
     padding: 240px 0px 300px 0px;
     text-align: center;
