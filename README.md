@@ -5,4 +5,4 @@ Innas Putri,
 Bagas Avianto,
 Chairul Huda,
 Muhammad Anang Abrar,
-Michiel Aelis,
+Michiel Aelis.
