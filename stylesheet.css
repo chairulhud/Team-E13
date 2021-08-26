@@ -193,8 +193,6 @@ footer {
 footer p{
     color:white;
     font-size: 10px;
-    font-family: "Lucida Grande";
     letter-spacing:2px;
     word-spacing: 2px;
-    /* opacity: 0.9; */
 }
