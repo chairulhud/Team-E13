@@ -17,7 +17,7 @@
 
     .top-wrapper{
         padding: 250px 0px 200px 0px;
-        background-image: url("/source/covertablet.jpg");
+        background-image: url("source/covertablet.jpg");
     }
 
     .top-wrapper h1{
@@ -68,7 +68,7 @@
 
     .top-wrapper{
         text-align: center;
-        background-image: url("/source/coverhp.jpg");
+        background-image: url("source/coverhp.jpg");
     }
     
     .top-wrapper .container{
