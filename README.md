@@ -1,6 +1,6 @@
 # Team-E13
 
-Members : 
+Member : 
 Innas Putri
 Bagas Avianto 
 Chairul Huda
